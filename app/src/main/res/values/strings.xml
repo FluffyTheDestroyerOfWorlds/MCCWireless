@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MCC Wireless</string>
+    <string-array name="Provider">
+        <item>Sprint</item>
+        <item>Verizon</item>
+        <item>ATT</item>
+        <item>Cricket</item>
+        <item>Boost</item>
+        <item>Straight Talk</item>
+        <item>Consumer Service</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="sLines">
+        <item>1</item>
+        <item>2 - 5% off Data Plan</item>
+        <item>3 - 10% off Data Plan</item>
+        <item>4 - 15% off Data Plan</item>
+    </string-array>
+    <string name="sLinesPrompt">Enter Number of Lines</string>
+</resources>
